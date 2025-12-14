@@ -23,6 +23,7 @@ export default function Home() {
             </div>
 
             {/* Headline */}
+            
             <h1 className="text-5xl lg:text-7xl font-extrabold mb-6 bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent leading-tight">
               Ciber Mind
             </h1>
