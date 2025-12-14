@@ -226,10 +226,5 @@ Se encontrar problemas:
 
 ---
 
-## 📄 Licença
-
-Este projeto foi desenvolvido pela Manus AI para a Ciber Mind.
-
----
 
 **Pronto para começar? Execute `pnpm install && pnpm dev` e aproveite! 🚀**
