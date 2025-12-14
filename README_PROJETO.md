@@ -329,24 +329,18 @@ Para sugerir melhorias ou reportar bugs:
 
 ---
 
-## 📄 Licença
-
-Este projeto foi desenvolvido pela **Manus AI** para a **Ciber Mind**.
-
----
-
 ## 📞 Suporte
 
 Para dúvidas ou suporte técnico, consulte:
 
 - [Documentação do Projeto](./GUIA_INSTALACAO.md)
 - [Issues do GitHub](https://github.com/seu-usuario/ciber-mind-courses/issues)
-- [Comunidade Manus](https://help.manus.im)
+
 
 ---
 
 ## 🎉 Agradecimentos
 
-Desenvolvido com ❤️ pela **Manus AI**, baseado em pesquisas de fontes confiáveis como CERT.br, CISA, SaferNet Brasil, ONU Mulheres e KnowBe4.
+Desenvolvido com ❤️ pela Midian Brandão, baseado em pesquisas de fontes confiáveis como CERT.br, CISA, SaferNet Brasil, ONU Mulheres e KnowBe4.
 
-**Pronto para proteger e educar! 🛡️**
+**O conhecimento que te protege! 🛡️**
